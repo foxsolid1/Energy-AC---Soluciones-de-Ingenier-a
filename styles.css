@@ -25,6 +25,10 @@ body {
     font-weight: bold;
 }
 
+.logo1 {
+    width: 50%;
+}
+
 .btn-facebook {
     background-color: #3b5998;
     color: white;
